@@ -5,12 +5,13 @@
 * [Create React App](https://create-react-app.dev/ "Create React App") - Create React apps with no build configuration.
 * [Next.js](https://nextjs.org/ "Next.js") - SSR and SSG
 * [Gatsby.js](https://www.gatsbyjs.org/ "Gatsby.js") - SSR and SSG - offers many plugins that can save your time. 
-
+```
 if (needsGatsbyPlugin) {
     return 'gatsby'
 } else {
     return 'next.js'
 }
+```
 
 #### Data fetching
 * [SWR](https://swr.now.sh/ "SWR") - SWR is a React Hooks library for remote data fetching.
