@@ -28,3 +28,6 @@ if (needsGatsbyPlugin) {
 * [Styled Flex Component](https://github.com/SaraVieira/styled-flex-component) - Flex Element for not writing any more custom flex styles because fuck that
 
 ## Python - BE in general
+
+### type annotations
+* [com2ann](https://github.com/ilevkivskyi/com2ann) - py2 to py3 annotation style converter
